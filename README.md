@@ -7,8 +7,10 @@ versão mais compatível para exportação de jogos para Xbox 360.
 
 ## 🎯 Objetivo
 
-Facilitar o desenvolvimento de jogos para Unity 5.4.1f1, oferecendo ferramentas, scripts
-e sistemas prontos para acelerar o processo de criação.
+Meu objetivo aqui é criar ferramentas que ajudem na produção de jogos no Unity 5.4.1f1,
+que é a versão mais compatível para exportar para Xbox 360.
+Caso alguém ainda queira fazer um jogo para o Xbox 360,
+isso ainda é possível, e eu estou aqui para facilitar o processo e te ajudar com seus jogos.
 
 ## 👥 Público-alvo
 
